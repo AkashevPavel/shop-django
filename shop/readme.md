@@ -1,0 +1,1 @@
+Django e-shop project
